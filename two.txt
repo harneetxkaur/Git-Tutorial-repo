@@ -1,0 +1,1 @@
+this is file named 2 inside second file
