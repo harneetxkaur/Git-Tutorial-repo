@@ -1,2 +1,4 @@
 this is file named 2 inside second file
 Adding some more content to this file
+now adding some more line to :
+test the -u commands working 
